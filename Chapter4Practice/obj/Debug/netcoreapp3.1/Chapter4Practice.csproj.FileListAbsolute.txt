@@ -1,0 +1,14 @@
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\bin\Debug\netcoreapp3.1\Chapter4Practice.exe
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\bin\Debug\netcoreapp3.1\Chapter4Practice.deps.json
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\bin\Debug\netcoreapp3.1\Chapter4Practice.runtimeconfig.json
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\bin\Debug\netcoreapp3.1\Chapter4Practice.runtimeconfig.dev.json
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\bin\Debug\netcoreapp3.1\Chapter4Practice.dll
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\bin\Debug\netcoreapp3.1\Chapter4Practice.pdb
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\obj\Debug\netcoreapp3.1\Chapter4Practice.csproj.AssemblyReference.cache
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\obj\Debug\netcoreapp3.1\Chapter4Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\obj\Debug\netcoreapp3.1\Chapter4Practice.AssemblyInfoInputs.cache
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\obj\Debug\netcoreapp3.1\Chapter4Practice.AssemblyInfo.cs
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\obj\Debug\netcoreapp3.1\Chapter4Practice.csproj.CoreCompileInputs.cache
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\obj\Debug\netcoreapp3.1\Chapter4Practice.dll
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\obj\Debug\netcoreapp3.1\Chapter4Practice.pdb
+C:\Users\Public\C_Sharp_Programs\Chapter4Practice\obj\Debug\netcoreapp3.1\Chapter4Practice.genruntimeconfig.cache
