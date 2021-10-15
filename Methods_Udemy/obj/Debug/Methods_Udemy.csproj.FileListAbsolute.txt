@@ -1,0 +1,7 @@
+C:\Users\Public\C_Sharp_Programs\Methods_Udemy\obj\Debug\Methods_Udemy.csproj.AssemblyReference.cache
+C:\Users\Public\C_Sharp_Programs\Methods_Udemy\obj\Debug\Methods_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\Public\C_Sharp_Programs\Methods_Udemy\bin\Debug\Methods_Udemy.exe.config
+C:\Users\Public\C_Sharp_Programs\Methods_Udemy\bin\Debug\Methods_Udemy.exe
+C:\Users\Public\C_Sharp_Programs\Methods_Udemy\bin\Debug\Methods_Udemy.pdb
+C:\Users\Public\C_Sharp_Programs\Methods_Udemy\obj\Debug\Methods_Udemy.exe
+C:\Users\Public\C_Sharp_Programs\Methods_Udemy\obj\Debug\Methods_Udemy.pdb
