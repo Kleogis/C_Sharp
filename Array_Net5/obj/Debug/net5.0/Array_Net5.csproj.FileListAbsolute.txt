@@ -1,0 +1,16 @@
+C:\Users\Public\C_Sharp_Programs\Array_Net5\bin\Debug\net5.0\Array_Net5.exe
+C:\Users\Public\C_Sharp_Programs\Array_Net5\bin\Debug\net5.0\Array_Net5.deps.json
+C:\Users\Public\C_Sharp_Programs\Array_Net5\bin\Debug\net5.0\Array_Net5.runtimeconfig.json
+C:\Users\Public\C_Sharp_Programs\Array_Net5\bin\Debug\net5.0\Array_Net5.runtimeconfig.dev.json
+C:\Users\Public\C_Sharp_Programs\Array_Net5\bin\Debug\net5.0\Array_Net5.dll
+C:\Users\Public\C_Sharp_Programs\Array_Net5\bin\Debug\net5.0\ref\Array_Net5.dll
+C:\Users\Public\C_Sharp_Programs\Array_Net5\bin\Debug\net5.0\Array_Net5.pdb
+C:\Users\Public\C_Sharp_Programs\Array_Net5\obj\Debug\net5.0\Array_Net5.csproj.AssemblyReference.cache
+C:\Users\Public\C_Sharp_Programs\Array_Net5\obj\Debug\net5.0\Array_Net5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\C_Sharp_Programs\Array_Net5\obj\Debug\net5.0\Array_Net5.AssemblyInfoInputs.cache
+C:\Users\Public\C_Sharp_Programs\Array_Net5\obj\Debug\net5.0\Array_Net5.AssemblyInfo.cs
+C:\Users\Public\C_Sharp_Programs\Array_Net5\obj\Debug\net5.0\Array_Net5.csproj.CoreCompileInputs.cache
+C:\Users\Public\C_Sharp_Programs\Array_Net5\obj\Debug\net5.0\Array_Net5.dll
+C:\Users\Public\C_Sharp_Programs\Array_Net5\obj\Debug\net5.0\ref\Array_Net5.dll
+C:\Users\Public\C_Sharp_Programs\Array_Net5\obj\Debug\net5.0\Array_Net5.pdb
+C:\Users\Public\C_Sharp_Programs\Array_Net5\obj\Debug\net5.0\Array_Net5.genruntimeconfig.cache
